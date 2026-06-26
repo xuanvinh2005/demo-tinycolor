@@ -1,0 +1,12 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "Demo app showing nested dependency structure",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@ctrl/tinycolor": "4.1.1"
+  }
+}
